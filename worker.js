@@ -6,7 +6,7 @@ const _ = require('lodash');
 const wif = require('wif');
 
 const TEST_KEY = '0000000000000000000000000000000000000000000000000000000000000001';
-const TEST_ADDRESS = "1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy";
+const TEST_ADDRESS = "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v";
 
 const returnHash = function () {
     abc = "abcdef1234567890".split("");
